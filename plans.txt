@@ -1,0 +1,1 @@
+One project I would like to make later in this course is some sort of game engine to play against humans in a game.
