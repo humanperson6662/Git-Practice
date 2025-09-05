@@ -1,2 +1,2 @@
 # Git-Practice
-Favorite Snack: Eggplant
+Favorite Snack: Mango
